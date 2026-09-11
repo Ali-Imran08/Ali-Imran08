@@ -79,14 +79,6 @@ always learning something new
 | Linux & CLI workflow | Daily driver |
 | Open-source collaboration | Always welcome |
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-Imran08&show_icons=true&hide_border=true&theme=transparent&title_color=14b8a6&icon_color=14b8a6&text_color=64748b" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Imran08&layout=compact&hide_border=true&theme=transparent&title_color=14b8a6&text_color=64748b" width="42%" />
-
-</div>
 
 ## 🤝 Let's connect
 
