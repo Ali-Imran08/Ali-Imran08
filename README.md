@@ -48,20 +48,41 @@ const ali = {
 
 ## 🚀 Featured Project
 
+<table>
+<tr>
+<td width="100%">
+
+<h3>🧪 LAB-AP-10-2026</h3>
+
+<p>
+Repository tugas praktikum Algoritma Pemrograman.
+Tempat menyimpan, mengembangkan, dan mengumpulkan tugas melalui Git dan GitHub.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Status-Active-00C2A8?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Academic%20Project-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Workflow-Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<p>
 <a href="https://github.com/Ali-Imran08/LAB-AP-10-2026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Imran08&repo=LAB-AP-10-2026&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/🔎%20View%20Repository-111827?style=for-the-badge" />
 </a>
+</p>
+
+</td>
+</tr>
+
+</table>
+
+
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-Imran08&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Imran08&theme=tokyonight&hide_border=true" width="49%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Imran08&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="98%" />
 
 </div>
 
