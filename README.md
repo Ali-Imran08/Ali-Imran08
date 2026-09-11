@@ -1,99 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=190&section=header&text=Ali%20Imran&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20useful%20things%20with%20code%20and%20curiosity&descAlignY=62&descSize=17" width="100%" />
+<a href="https://github.com/Ali-Imran08">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2FF,100:00E5A8&height=220&section=header&text=ALI%20IMRAN&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=WEB%20DEVELOPER%20%7C%20LINUX%20USER%20%7C%20BUILDER&descAlignY=61&descSize=16&animation=fadeIn" width="100%" />
+</a>
 
-# Hey, I'm Ali Imran 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+useful+web+applications;Learning+something+new+every+day;Linux+%7C+PHP+%7C+Laravel+%7C+Vue.js" alt="Typing animation" />
+</a>
 
-**Web Developer in progress · Linux user · Problem solver**
+<br />
 
-<a href="https://github.com/Ali-Imran08"><img src="https://img.shields.io/badge/GitHub-Ali--Imran08-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/muh-ali-imran-abduh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Ali-Imran08"><img src="https://img.shields.io/github/followers/Ali-Imran08?style=for-the-badge&logo=github&label=FOLLOWERS&color=6C63FF" /></a>
+<a href="https://github.com/Ali-Imran08?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-00A98F?style=for-the-badge&logo=github" /></a>
+<a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Contact-Say%20Hello-FF6584?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br />
 
-## ✨ A little about me
+## 👋 About me
 
-I enjoy turning ideas into **clean, functional, and easy-to-use web applications**. My playground is a Linux terminal, my tools are code and curiosity, and my goal is always the same: build something that is useful.
+I am a web developer in progress who enjoys turning ideas into clean, useful, and friendly applications. I learn by building, work mostly in Linux, and try to make every project simpler than the last one.
 
-- 🎓 Student and web developer in progress
-- 🧩 Interested in backend systems, interactive interfaces, and data
-- 🐧 Most comfortable in a Linux environment
-- 🛠️ Currently improving my full-stack workflow
-- 📬 Open to collaboration, feedback, and interesting projects
+```js
+const ali = {
+  role: "Student & Web Developer",
+  focus: ["Backend", "Frontend", "Database"],
+  environment: "GNU/Linux",
+  currentlyLearning: "Better software architecture",
+  motto: "Build. Learn. Improve."
+};
+```
 
-> *Write code that works. Improve it until it feels simple.*
-
-## 🧰 Tools I use
+## ⚡ What I do
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-### Backend & Data
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-### Frontend & Design
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-</td>
+<td width="33%" align="center">🧠<br /><b>Learn</b><br /><sub>Study concepts through practice</sub></td>
+<td width="33%" align="center">🛠️<br /><b>Build</b><br /><sub>Turn ideas into working apps</sub></td>
+<td width="33%" align="center">🚀<br /><b>Improve</b><br /><sub>Refactor, test, and document</sub></td>
 </tr>
 </table>
 
-### ⚙️ Daily workflow
+## 💻 Tech stack
 
-```bash
-$ whoami
-ali-imran
+<div align="center">
 
-$ cat focus.txt
-build • learn • simplify • repeat
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Vue](https://skillicons.dev/icons?i=vue)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MariaDB](https://skillicons.dev/icons?i=mariadb)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![NPM](https://skillicons.dev/icons?i=npm)
 
-$ git status
-always learning something new
-```
+</div>
 
-## 🚀 What I'm working on
+## 🚀 Featured project
 
-| Area | Status |
-|---|---|
-| Backend development | Learning and building |
-| Frontend interfaces | Improving every project |
-| Linux & CLI workflow | Daily driver |
-| Open-source collaboration | Always welcome |
+<a href="https://github.com/Ali-Imran08/LAB-AP-10-2026">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Imran08&repo=LAB-AP-10-2026&theme=tokyonight&hide_border=true" />
+</a>
 
+> Tambahkan 1–2 repository terbaik lain setelah project selesai.
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Imran08&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Imran08&theme=tokyonight&hide_border=true" width="49%" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Imran08&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="98%" />
+
+</div>
+
+## 🐍 Contribution animation
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/Ali-Imran08/Ali-Imran08/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ## 🤝 Let's connect
 
-Have an idea, suggestion, or project to discuss? Send me a message or open an issue in one of my repositories.
+<a href="https://linkedin.com/in/muh-ali-imran-abduh">LinkedIn</a> · <a href="mailto:EMAIL_KAMU@gmail.com">Email</a> · <a href="https://github.com/Ali-Imran08">GitHub</a>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ali-Imran08&color=14b8a6&style=flat-square&label=Profile+views)](https://github.com/Ali-Imran08)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A8,50:00C2FF,100:6C63FF&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=100&section=footer" width="100%" />
-
-</div>
-
-<!-- Ganti USERNAME_IG dan EMAIL_KAMU sebelum dipublikasikan. -->
+<!-- Ganti EMAIL_KAMU@gmail.com. Snake animation membutuhkan GitHub Action. -->
