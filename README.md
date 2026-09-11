@@ -82,7 +82,7 @@ const ali = {
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/Ali-Imran08/Ali-Imran08/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Ali-Imran08/output/github-contribution-grid-snake.svg)
 
 </div>
 
