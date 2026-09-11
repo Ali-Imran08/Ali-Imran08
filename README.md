@@ -88,11 +88,23 @@ Tempat menyimpan, mengembangkan, dan mengumpulkan tugas melalui Git dan GitHub.
 
 ## 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/muh-ali-imran-abduh">LinkedIn</a> · <a href="mailto:EMAIL_KAMU@gmail.com">Email</a> · <a href="https://github.com/Ali-Imran08">GitHub</a>
+## 🌐 Let's Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A8,50:00C2FF,100:6C63FF&height=120&section=footer&animation=fadeIn" width="100%" />
+<a href="https://linkedin.com/in/muh-ali-imran-abduh">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:aliimranmuh4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Ali-Imran08">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+**Let's build something useful together.**
 
 </div>
 
