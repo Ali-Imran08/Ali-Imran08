@@ -18,7 +18,7 @@
 
 I am a web developer in progress who enjoys turning ideas into clean, useful, and friendly applications. I learn by building, work mostly in Linux, and improve every project through practice.
 
-```js
+
 const ali = {
   role: "Student & Web Developer",
   focus: ["Backend", "Frontend", "Database"],
@@ -26,7 +26,7 @@ const ali = {
   currentlyLearning: "Better software architecture",
   motto: "Build. Learn. Improve."
 };
-```
+
 
 ## ⚡ What I Do
 
@@ -88,8 +88,6 @@ Tempat menyimpan, mengembangkan, dan mengumpulkan tugas melalui Git dan GitHub.
 
 ## 🤝 Let's Connect
 
-## 🌐 Let's Connect
-
 <div align="center">
 
 <a href="https://linkedin.com/in/muh-ali-imran-abduh">
@@ -108,4 +106,3 @@ Tempat menyimpan, mengembangkan, dan mengumpulkan tugas melalui Git dan GitHub.
 
 </div>
 
-<!-- Ganti EMAIL_KAMU@gmail.com dengan email asli. -->
