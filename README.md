@@ -73,9 +73,6 @@ const ali = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-Imran08&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Imran08&theme=tokyonight&hide_border=true" width="49%" />
-
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Imran08&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="98%" />
